@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+airflow_home/
+.env
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+*.db
+.coverage
+dist/
+build/
